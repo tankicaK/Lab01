@@ -1,0 +1,25 @@
+mkdir lab1
+cd lab1
+notepad l1.txt
+git init
+git add .
+git commit -m 'Initial commit'
+notepad l1.txt
+git add .
+git commit -m 'modify l1.txt'
+git remote add origin https://github.com/tankicaK/Lab01.git
+git push -u origin master 
+git add l1.txt 
+git branch logging
+git checkout logging 
+git log
+notepad log.txt
+git add log.txt
+git commit -m "created logging branch and added log.txt"
+git push --set-upstream origin logging 
+git checkout master
+git merge logging
+git push 
+git branch allcomands
+git checkout allcomands
+notepad commands.txt
