@@ -1,0 +1,11 @@
+commit 233f7b5331a91fba0fec0bcb43e3526399385b8b (HEAD -> logging, origin/master, master)
+Author: Tankica Koteva <tankica.koteva@students.finki.ukim.mk>
+Date:   Wed Mar 21 21:55:43 2018 +0100
+
+    modify l1.txt
+
+commit c3463f09a49e577efa0826941f9befed3c8fbb4f
+Author: Tankica Koteva <tankica.koteva@students.finki.ukim.mk>
+Date:   Wed Mar 21 21:54:54 2018 +0100
+
+    Initial commit
